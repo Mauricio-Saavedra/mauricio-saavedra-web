@@ -1,0 +1,48 @@
+baseURL = "https://example.com/"
+languageCode = "es-mx"
+title = "Mauricio Saavedra"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+theme = "hugo-sustain"
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
+[params]
+  avatar = "images/profile.png"
+  author = "Mauricio Saavedra"
+  description = "Minimalista espacio enfocado en centrar las producciones de Mauricio Saavedra: Libros, Portafolio, Blog's, y lo que se vaya añadiendo."
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  custom_js  = []
+
+[params.social]
+  Github        = "mauricio-saavedra"
+  Email         = "micorreoesalexis@gmail.com"
+  Twitter       = "username"
+  LinkedIn      = "mauricio-saavedra"
+  Stackoverflow = "username"
+  Medium        = "username"
+  Telegram      = "username"
+  RSS           = "/blog/index.xml"
+
+## Main Menu
+[[menu.main]]
+  name = "blog"
+  weight = 100
+  identifier = "blog"
+  url = "/blog/"
+[[menu.main]]
+  name = "Portafolio"
+  identifier = "projects"
+  weight = 200
+  url = "/projects/"
+[[menu.main]]
+  name = "Libros"
+  identifier = "resume"
+  weight = 300
+  url = "/resume/"
+  

@@ -1,0 +1,13 @@
+{{ define "main" }}
+  {{ partial "header" . }}
+
+  <section id="about">
+    <div class="container">
+      <div class="avatar mb-5"> <!--Acá esta lá imagen de perfil, es importante revisar esto de nuevo para poder entender la variable-->
+        <img class="rounded-circle" src="{{ .Site.Params.avatar }}" alt="Responsive image">
+      </div>
+      {{ .Content }}
+      {{ partial "social.html" . }}
+    </div>
+  </section>
+{{ end }}

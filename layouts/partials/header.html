@@ -1,0 +1,24 @@
+<div class="container mb-3">
+  <nav class="navbar navbar-expand-lg">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="{{ .Site.BaseURL }}">
+        <i class="fa fa-home"></i> <!--Normal o reducido sale algo la derecha de la casita-->
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar">
+        <i class="fa fa-bars"></i> <!--Reducido a la derecha de la hamburguesa-->
+      </button>
+
+      <div id="navbar" class="collapse navbar-collapse">
+        <ul class="navbar-nav ms-auto mb-2 mb-lg-0"> <!--a la izquierda de "Blog"-->
+          {{ if .Site.Menus.main }}
+            {{ range .Site.Menus.main }}
+              <li class="nav-item"> <!--A la izqierda de todos las opciones "B", "P", "L"-->
+                <li><a class="nav-link" href="{{ .URL }}">{{ .Name | upper }}</a></li> <!--A la derecha de todos las opciones "B", "P", "L"-->
+              </li>
+            {{ end }}
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>
