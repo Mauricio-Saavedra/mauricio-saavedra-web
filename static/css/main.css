@@ -4,7 +4,7 @@ html, body {
   background-color: #fff;
   font-family: 'Source Sans Pro', sans-serif;
   /* The html and body elements cannot have any padding or margin. */
-  border-top: 7px solid #18babd;
+  border-top: 3px solid #07f6fa;
 }
 
 /* Wrapper for page content to push down footer */
@@ -78,12 +78,12 @@ html, body {
 }
 
 .container a {
-  color: #18babd;
+  color: #07f6fa;
   text-decoration: none;
 }
 
 .container a:hover {
-  color: #18babd;
+  color: #07f6fa;
 }
 
 .container p img,
@@ -121,12 +121,12 @@ html, body {
 
 .panel h4 a,
 h5 a {
-  color: #18babd;
+  color: #07f6fa;
 }
 
 .panel h4 a:hover,
 h5 a:hover {
-  color: #18babd;
+  color: #07f6fa;
 }
 
 .social-links {
@@ -196,7 +196,7 @@ h5 a:hover {
 
 /* Footer  */
 .footer {
-  border-bottom: 5px solid #18babd;
+  border-bottom: 5px solid #07f6fa;
   padding: 20px 0;
   text-decoration: none !important;
 }

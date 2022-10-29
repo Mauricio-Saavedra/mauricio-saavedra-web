@@ -1,14 +1,9 @@
 name: Projects
 source:
   - icon: fa fa-github
-    name: Mis primeros pasos con Pyhton
-    description: Estos han sido los ejercicios (y mis anotaciones de ellos) mientras aprendría este bello y accesible lenguaje.
-    url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
-
-  - icon: fa fa-globe
-    name: añadiendo un proyecto globo
-    description: sisisisisisisisisiisisisisisisisisisisi
-    url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+    name: Project 1
+    description: Ei viderer tacimates pro, quem assum ea nam. Veritus omnesque eam te. Et natum mucius tamquam vel, ea dolorem volumus deterruisset nec. Graeci mentitum sea an, eu prima elaboraret est.
+    url: https://github.com/nurlansu/hugo-sustain
 
   - icon: fa fa-github
     name: Project 2

@@ -1,20 +1,21 @@
 ---
 ---
 
-¡Saludos! Soy **Mauricio Saavedra**, programador Jr, y *Escritor* novel.
+¡Saludos! Soy **Mauricio Saavedra**, programador Pyhton Jr, y *Escritor* novel.
+Me gusta mucho navegar constantemente en el mar del conocimiento, ya que (afrotunadamente) siempre hay algo por aprender.
 
-Me gusta mucho navegar constantemente en el mar del conocimiento.
+Puedes ver a mis aprendizajes de programación en mi **[Portafolio]**.
+Puedes leer los avances que llevo de mi primer **[Libro]**
+Revisa mi *Extenso* **[CV]**, o puedes enviarme un **[email]**.
 
-Puedes ver a mis aprendizajes de programación en mi [Portafolio].
-
-Así como comprar mi primer [Libro], te dejaré el enlace.
-
-Revisa mi *Extenso* CV [aquí], o puedes enviarme un [email].
 
 
 
 [Portafolio]: /projects
-[Libro]: https://amazon.com
-[aquí]: https://demo.nurlan.co/hugo-vitae/
-[email]: mailto:micorreoesalexis@gmail.com
+<!-- [Libro]: https://amazon.com -->
+[CV]: /cv
+[email]: mailto:micorreodecontactopublico@gmail.com
+[Libro]: /libros
 
+
+<!-- Así como comprar mi primer **[Libro]**, o leer una **[Reseña]**. -->

@@ -13,7 +13,7 @@ theme = "hugo-sustain"
 [params]
   avatar = "images/profile.png"
   author = "Mauricio Saavedra"
-  description = "Minimalista espacio enfocado en centrar las producciones de Mauricio Saavedra: Libros, Portafolio, Blog's, y lo que se vaya añadiendo."
+  description = "Espacio minimalista enfocado en centrar las producciones de Mauricio Saavedra: Libros, Portafolio, Blog's, y lo que se vaya añadiendo."
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
@@ -21,7 +21,7 @@ theme = "hugo-sustain"
 
 [params.social]
   Github        = "mauricio-saavedra"
-  Email         = "micorreoesalexis@gmail.com"
+  Email         = "micorreoesmauricio@gmail.com"
   Twitter       = "username"
   LinkedIn      = "mauricio-saavedra"
   Stackoverflow = "username"
@@ -42,7 +42,7 @@ theme = "hugo-sustain"
   url = "/projects/"
 [[menu.main]]
   name = "Libros"
-  identifier = "resume"
+  identifier = "libros"
   weight = 300
-  url = "/resume/"
+  url = "/libros/"
   
