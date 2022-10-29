@@ -1,7 +1,7 @@
 +++
 author = "Mauricio Saavedra1"
 title = "Curriculum Vitae"
-date = "2022-11-01"
+date = "2022-10-28"
 description = "Información personal y laboral"
 tags = [
     "Curriculum",
@@ -10,21 +10,24 @@ tags = [
 ]
 +++
 
-# Mauricio Saavedra
+# Alexis Mauricio Saavedra Bueno
 
-## Introducción:
-Creo que hay muchas cosas que puedo decir sobre mí, pero estan fuera de lugar según el proposito de este espacio, por ello me voy a enfocar en decir un par de cosas que quizá hagan eco más adelante:
+## Sobre mí:
+Me gustan las humanidades y las artes, no soy muy avezado en estás, pero me gusta sorprenderme con la habilidad que veo en *los grandes maestros* de diversas aréas, disfruto muchi de *el cine y la literatura*, pues al yo mismo querer ser escritor es necesario que me nutra de las narrativas para poder expandir mi imaginario.
 
-PROYECTOS ACTUALES (Corto y Mediano plazo):
--Me encuentro escribiendo mi primer libro de cuentos el cual espero publicar en el 2022.
--Estoy en la mejor disposición de retomar mis estudios orientados a la literatura.
--Llegar a un nivel de comprensión más alto en el inglés, lo necesario para poder sostener una conversación, pues me servirá para la Programación.
+Mi gusto por la programación ha sido reciente pero intenso, realmente es un ramo con una cantidad de posibilidades impresionante, y justo por ello me ha atraido muy fuerte, al grado de querer aprenderla y poder trabajar en ella, pues no hay mejor manera de crecer en esto que dentro de proyectos reales con gente que sabe mucho más que yo y que me puede orientar.
 
+### Soft Skills:
+Mi acercamiento a las humanidades y sobre todo mi gran **curiosidad** por aquello que me rodea, me han hecho adquirir algunas habilidades **sociales** e **intrapersonales** que me han ayudado mucho a seguir avanzando con todo y la cruz de mi entorno. He visto por ahí que este tipo de habilidades (de **reciliencia**) son muy bien valoradas en este campo laboral, así que ello me hace sentir **seguro**, **relajado** y muy **proactivo** en lo referente a mis posibilidades de crecer como programador; pues confio en mis habilidades de **aprendizaje** y **comunicación** para poder crecer con la gente de mi entorno.
 
-## Datos más o menos personales:
+Me encuentro en la mejor disposición de retomar mis estudios orientados a la literatura, pues es un area que me apasiona mucho, pero no lo tomen como que eso me haría desviar el foco de mi trabajo, para todo hay un lugar y un tiempo.
+
+### Datos personales:
 * Vivo en la Ciudad de México, en la alcaldia de Coyoacán.
-* Puedes enviarme un **[Correo]** para contactarme.
-* Casi no uso redes sociales, por lo cual no puedo referir alguna.
+* Casi no uso redes sociales, por lo cual no puedo referir alguna más allá de un **[LinkedIn]**.
+* Me encuentro escribiendo mi primer libro de cuentos el cual espero publicar este mismo año.
+* Me gustaría llegar a un nivel de comprensión más alto en el inglés, lo necesario para poder sostener una conversación, pues me servirá para la programación y otras aréas. 
+* Puedes enviarme un **[Correo]** para contactarme si necesitas mayor información.
 
 ## Historial Laboral:
 
@@ -51,32 +54,8 @@ Trabajaba en la cuenta de Nintendo, la gencia ya no existe por eso no puedo pone
         - Orientación y Comunicación correcta con el cliente.
 
 #### Trabajador Independiente:
-
 * Saliendo de Nintendo (lo llamo así porque me gusto mucho sentirme parte de la marca) tuve la oportunidad de poner un *pequeño* negocio propio, así que aprendí un nuevo set de habilidades para poder desempeñar todas las funciones que requería ese pequeño proyecto, desafortunamente el *magno evento* del 2020 terminó con aquel emprendimiento, quizá no haya podido verlo crecer como a mi me hubiese gustado, pero fue bastante satisfactorio el haber podido ver los frutos de mi trabajo de manera tan directa.
 
-## Soft Skills:
-
-Habilidades y perfil:
-
-- Persona Solida y confiable.
-- Conocimiento en la sintesis y redacción de textos.
-- Honesto y puntual.
-- Comprometido con lo que hace.
-- Capacidad de liderazgo.
-- Lector apasionado de filosofía y literatura.
-- Capacidad para tolerar altos niveles de estres.
-- Confianza personal en un nivel alto.
-- Conocimiento acerca del lenguaje corporal.
-
-HABILIDADES y PERFIL:
-Facilidad de palabra.
-Honesto y Puntual.
-Experiencia en ventas y orientación del cliente.
-Gestión de Tiempo, recursos y energía.
-Escucha profunda.
-Capacidad de Liderazgo.
-Capacidad de continuidad y constancia en lo que hago.
-Aprendizaje constante.
 
 
 
@@ -86,3 +65,4 @@ Gracias por su amable atención, estoy disponible para empezar a trabajar con us
 
 
 [Correo]: mailto:micorreodecontactopublico@gmail.com
+[LinkedIn]: www.linkedin.com/in/original-mauricio-saavedra

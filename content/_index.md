@@ -6,14 +6,13 @@ Me gusta mucho navegar constantemente en el mar del conocimiento, ya que (afrotu
 
 Puedes ver a mis aprendizajes de programación en mi **[Portafolio]**.
 Puedes leer los avances que llevo de mi primer **[Libro]**
-Revisa mi *Extenso* **[CV]**, o puedes enviarme un **[email]**.
+Revisa mi *Extenso* **[Curriculum]**, o puedes enviarme un **[email]**.
 
 
 
 
 [Portafolio]: /projects
 <!-- [Libro]: https://amazon.com -->
-[CV]: /curriculum
+[Curriculum]: /curriculum
 [email]: mailto:micorreodecontactopublico@gmail.com
 [Libro]: /libros
-
