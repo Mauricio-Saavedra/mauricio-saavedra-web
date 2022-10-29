@@ -13,9 +13,7 @@ Revisa mi *Extenso* **[CV]**, o puedes enviarme un **[email]**.
 
 [Portafolio]: /projects
 <!-- [Libro]: https://amazon.com -->
-[CV]: /cv
+[CV]: /curriculum
 [email]: mailto:micorreodecontactopublico@gmail.com
 [Libro]: /libros
 
-
-<!-- Así como comprar mi primer **[Libro]**, o leer una **[Reseña]**. -->

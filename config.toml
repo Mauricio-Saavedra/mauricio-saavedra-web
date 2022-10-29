@@ -23,7 +23,7 @@ theme = "hugo-sustain"
   Github        = "mauricio-saavedra"
   Email         = "micorreoesmauricio@gmail.com"
   Twitter       = "username"
-  LinkedIn      = "mauricio-saavedra"
+  LinkedIn      = "original-mauricio-saavedra"
   Stackoverflow = "username"
   Medium        = "username"
   Telegram      = "username"
@@ -45,4 +45,3 @@ theme = "hugo-sustain"
   identifier = "libros"
   weight = 300
   url = "/libros/"
-  

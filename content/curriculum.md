@@ -83,4 +83,6 @@ Aprendizaje constante.
 Gracias por su amable atención, estoy disponible para empezar a trabajar con ustedes de inmediato.
 
 
+
+
 [Correo]: mailto:micorreodecontactopublico@gmail.com
