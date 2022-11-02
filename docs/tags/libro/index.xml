@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Libro on Mauricio Saavedra</title>
+    <link>https://mauricio-saavedra.github.io/tags/libro/</link>
+    <description>Recent content in Libro on Mauricio Saavedra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-mx</language>
+    <lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mauricio-saavedra.github.io/tags/libro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Camino hasta la publicación:</title>
+      <link>https://mauricio-saavedra.github.io/libros/primerproceso/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mauricio-saavedra.github.io/libros/primerproceso/</guid>
+      <description>Mis primeros pasos: He escrito este libro con muchas ganas de aprender sobre el proceso creativo, mi mayor impulso fue el querer empezar a escribir, pues ese es él único camino posible para llegar a ser escritor.
+Justo en todo este proceso de lúdico aprendizaje fue que trate de experimentar no solo con alguna historia dentro de mi limitada capacidad, sino que también con las formas que puede adquirir el lenguaje escrito, y no tanto la palabra.</description>
+    </item>
+    
+  </channel>
+</rss>

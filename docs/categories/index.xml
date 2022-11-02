@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Mauricio Saavedra</title>
+    <link>https://mauricio-saavedra.github.io/categories/</link>
+    <description>Recent content in Categories on Mauricio Saavedra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-mx</language>
+    <lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mauricio-saavedra.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Background</title>
+      <link>https://mauricio-saavedra.github.io/categories/background/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mauricio-saavedra.github.io/categories/background/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Objetivos</title>
+      <link>https://mauricio-saavedra.github.io/categories/objetivos/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mauricio-saavedra.github.io/categories/objetivos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceso</title>
+      <link>https://mauricio-saavedra.github.io/categories/proceso/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mauricio-saavedra.github.io/categories/proceso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prospectivas</title>
+      <link>https://mauricio-saavedra.github.io/categories/prospectivas/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mauricio-saavedra.github.io/categories/prospectivas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>libros</title>
+      <link>https://mauricio-saavedra.github.io/categories/libros/</link>
+      <pubDate>Wed, 28 Sep 2022 22:55:05 -0400</pubDate>
+      
+      <guid>https://mauricio-saavedra.github.io/categories/libros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>projects</title>
+      <link>https://mauricio-saavedra.github.io/categories/projects/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://mauricio-saavedra.github.io/categories/projects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
