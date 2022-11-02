@@ -3,7 +3,7 @@ source:
 
   - icon: fa fa-github
     name: El Juego del Ahorcado (Python)
-    description: Cree un sencillo juego del ahorcado, es el primer pryecto que subo por tener -> Clases, funciones, ciclos, etc... 
+    description: Cree un sencillo juego del ahorcado, es el primer proyecto que subo por tener -> Clases, funciones, ciclos, etc... 
     url: https://github.com/Mauricio-Saavedra/Mini-Proyectos-Python/tree/master/Python/Ahorcado
 
   # - icon: fa fa-globe
