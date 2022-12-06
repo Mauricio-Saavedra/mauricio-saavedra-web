@@ -2,6 +2,11 @@ name: Projects
 source:
 
   - icon: fa fa-github
+    name: Anagramas
+    description: Pequeño programa para hacer anagramas de manera automatizada y guardarlos en un archivo '.txt'.
+    url: https://github.com/Mauricio-Saavedra/Mini-Proyectos-Python/tree/master/Python/Anagrama
+
+  - icon: fa fa-github
     name: Catálogo de Libros
     description: Aprendiendo a realizar una aplicación con interfaz gráfica con Tkinter y conectarla con SQLite.
     url: https://github.com/Mauricio-Saavedra/Mini-Proyectos-Python/tree/master/Python/CatalogoLibros
@@ -10,11 +15,6 @@ source:
     name: El Juego del Ahorcado (Python)
     description: Cree un sencillo juego del ahorcado, es el primer proyecto que subo por tener -> Clases, funciones, ciclos, etc... 
     url: https://github.com/Mauricio-Saavedra/Mini-Proyectos-Python/tree/master/Python/Ahorcado
-
-  # - icon: fa fa-github
-  #   name: Project 2
-  #   description: An eripuit phaedrum qui, nec facer splendide ex, vel ea assum facilisi convenire. Te his neglegentur consectetuer.
-  #   url: https://github.com/nurlansu/hugo-sustain
 
   # - icon: fa fa-github
   #   name: Project 3
