@@ -1,5 +1,5 @@
 +++
-author = "Mauricio Saavedra1"
+author = "Mauricio Saavedra"
 title = "Curriculum Vitae"
 date = "2022-11-01"
 description = "Información personal y laboral"
@@ -26,7 +26,7 @@ Me encuentro en la mejor disposición de retomar mis estudios orientados a la li
 
 ### Datos personales
 
-* Vivo en la Ciudad de México, en la alcaldia de Coyoacán.
+<!-- * Vivo en la Ciudad de México, en la alcaldia de Coyoacán. -->
 * Me encuentro escribiendo mi primer libro de cuentos el cual espero publicar este mismo año.
 * Me gustaría llegar a un nivel de comprensión más alto en el inglés, lo necesario para poder sostener una conversación, pues me servirá para la programación y otras aréas. 
 * Puedes enviarme un **[Correo]** para contactarme si necesitas mayor información.
