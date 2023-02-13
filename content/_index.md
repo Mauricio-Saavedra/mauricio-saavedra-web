@@ -9,7 +9,7 @@ Puedes leer los avances que llevo de mi primer **[Libro]**
 Revisa mi *Extenso* **[Curriculum]**, o puedes enviarme un **[email]**.
 
 [Portafolio]: /projects
-[Libro]: https://www.azonlinks.com/B0BRLFZP7V
+[Libro]: shorturl.at/dkY13
 [Curriculum]: /curriculum
 [email]: mailto:micorreodecontactopublico@gmail.com
 <!-- [Libro]: /libros -->
