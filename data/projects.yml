@@ -3,7 +3,7 @@ source:
 
   - icon: fa fa-github
     name: Anagramas
-    description: Pequeño programa para hacer anagramas de manera automatizada y guardarlos en un archivo '.txt'.
+    description: Pequeño programa para hacer anagramas de manera automatizada y guardarlos en un archivo '.txt'. Nota, he optimizado el código y ahora cuenta con manejo de errores.
     url: https://github.com/Mauricio-Saavedra/Mini-Proyectos-Python/tree/master/Python/Anagrama
 
   - icon: fa fa-github
