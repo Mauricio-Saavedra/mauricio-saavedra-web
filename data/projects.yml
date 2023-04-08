@@ -2,6 +2,11 @@ name: Projects
 source:
 
   - icon: fa fa-github
+    name: To-Do app creada con Python/Flask/Jinja
+    description: Para aprender el manejo de Flask y Jinja se me ha propuesto crear una To-Do list app, cuenta con-> sus rutas, autenticación, base de datos, creación, modificación y eliminación de tareas, sé que es algo sencillo, pero no dejo de avanzar la senda del programador.
+    url: https://github.com/Mauricio-Saavedra/Mini-Proyectos-Python/tree/master/Python/To-Do-App
+
+  - icon: fa fa-github
     name: Anagramas
     description: Pequeño programa para hacer anagramas de manera automatizada y guardarlos en un archivo '.txt'. Nota, he optimizado el código y ahora cuenta con manejo de errores.
     url: https://github.com/Mauricio-Saavedra/Mini-Proyectos-Python/tree/master/Python/Anagrama
@@ -15,11 +20,6 @@ source:
     name: El Juego del Ahorcado (Python)
     description: Cree un sencillo juego del ahorcado, es el primer proyecto que subo por tener -> Clases, funciones, ciclos, etc... 
     url: https://github.com/Mauricio-Saavedra/Mini-Proyectos-Python/tree/master/Python/Ahorcado
-
-  # - icon: fa fa-github
-  #   name: Project 3
-  #   description: An alii quot tantas eum, doming platonem persecuti mea et, vim perpetua cotidieque delicatissimi in.
-  #   url: https://github.com/nurlansu/hugo-sustain
 
   # - icon: fa fa-globe
   #   name: Project 4
