@@ -2,6 +2,11 @@ name: Projects
 source:
 
   - icon: fa fa-github
+    name: BlogMS
+    description: Página de blog para que los usuarios compartan sus ideas, desarrollado con Python, Flask, Jinja y con BD en PostgreSQL.
+    url: https://github.com/Mauricio-Saavedra/Mini-Proyectos-Python/tree/master/Python/Blog-app
+
+  - icon: fa fa-github
     name: To-Do app creada con Python/Flask/Jinja
     description: Para aprender el manejo de Flask y Jinja se me ha propuesto crear una To-Do list app, cuenta con-> sus rutas, autenticación, base de datos, creación, modificación y eliminación de tareas, sé que es algo sencillo, pero no dejo de avanzar la senda del programador.
     url: https://github.com/Mauricio-Saavedra/Mini-Proyectos-Python/tree/master/Python/To-Do-App
@@ -20,11 +25,6 @@ source:
     name: El Juego del Ahorcado (Python)
     description: Cree un sencillo juego del ahorcado, es el primer proyecto que subo por tener -> Clases, funciones, ciclos, etc... 
     url: https://github.com/Mauricio-Saavedra/Mini-Proyectos-Python/tree/master/Python/Ahorcado
-
-  # - icon: fa fa-globe
-  #   name: Project 4
-  #   description: Vim an case vidit sententiae, est at euismod laboramus efficiantur. Ei sit brute lorem, ea eam timeam viderer aliquid, cu integre omittam moderatius quo.
-  #   url: https://github.com/nurlansu/hugo-sustain
 
   # - icon: fa fa-globe
   #   name: Project 5
