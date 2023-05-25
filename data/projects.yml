@@ -2,6 +2,11 @@ name: Projects
 source:
 
   - icon: fa fa-github
+    name: Práctica de API
+    description: Creo que una pequeña API para poder hacerle peticiones desde "Thunder Client" en VSCode.
+    url: https://github.com/Mauricio-Saavedra/Mini-Proyectos-Python/tree/master/Python/API.Contact
+
+  - icon: fa fa-github
     name: BlogMS
     description: Página de blog para que los usuarios compartan sus ideas, desarrollado con Python, Flask, Jinja y con BD en PostgreSQL.
     url: https://github.com/Mauricio-Saavedra/Mini-Proyectos-Python/tree/master/Python/Blog-app
@@ -25,11 +30,6 @@ source:
     name: El Juego del Ahorcado (Python)
     description: Cree un sencillo juego del ahorcado, es el primer proyecto que subo por tener -> Clases, funciones, ciclos, etc... 
     url: https://github.com/Mauricio-Saavedra/Mini-Proyectos-Python/tree/master/Python/Ahorcado
-
-  # - icon: fa fa-globe
-  #   name: Project 5
-  #   description: Dicta causae meliore ex vel, in vix erant integre petentium. Vix ei nisl scripta recusabo, eam doming blandit facilisis.
-  #   url: https://github.com/nurlansu/hugo-sustain
 
   # - icon: fa fa-cog
   #   name: Project 6
