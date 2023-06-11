@@ -7,7 +7,7 @@ Me gusta mucho navegar constantemente en el mar del conocimiento, ya que (afortu
 Puedes ver a mis aprendizajes de programación en mi **[Portafolio]**. Así como comprar mi primer **[Libro]**, y revisa mi *Extenso* **[Curriculum]**, también puedes enviarme un **[email]**, con gusto te leeré.
 
 [Portafolio]: /projects
-[Libro]: https://www.azonlinks.com/B0BRLFZP7V
+[Libro]: hhttps://a.co/d/fdZFatc
 [Curriculum]: /curriculum
 [email]: mailto:micorreodecontactopublico@gmail.com
 <!-- [Libro]: /libros -->
