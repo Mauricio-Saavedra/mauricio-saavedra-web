@@ -17,10 +17,11 @@ aliases = ["Mauricio-Saavedra"]
 +++
 
 <!-- Dentro de los comentarios explicaré un poco del uso de MarkDown -->
-# Propósito de éste espacio "Blog". 
+# Propósito de éste espacio "Blog"
 <!--Dejando un espacio después del "#" indicamos que esto es un titular, al igual que sería un <h1> en HTML, la cantidad de "#" que pongamos es el núm del H, ergo, un <h6> se escribe con seis "#": ###### TitularH6-->
 
-No soy muy bueno con las redes sociales porque de facto pienso que son una pérdida de tiempo terrible, y pues errado no estoy, pues para eso estan hechas; no me gustan mucho por dos razones:
+No soy muy bueno con las redes sociales porque de facto pienso que son una pérdida de tiempo terrible, y pues errado no estoy, pues para eso están hechas; no me gustan mucho por dos razones:
+
 1. Quiero hacer muchas cosas y ello conlleva mucho tiempo.
 2. La mayoría del tiempo en redes sociales es esteril.
 <!-- Las listas numeradas se usan así, número seguido de punto y espacio, en lugar de: <ol> y debajo: <li> -->
