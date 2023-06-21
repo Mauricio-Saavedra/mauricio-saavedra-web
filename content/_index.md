@@ -11,4 +11,3 @@ Puedes ver mis aprendizajes de programación en mi **[Portafolio]**. Así como c
 [Libro]: https://a.co/d/fdZFatc
 [Curriculum]: /curriculum
 [email]: mailto:micorreodecontactopublico@gmail.com
-<!-- [Libro]: /libros -->

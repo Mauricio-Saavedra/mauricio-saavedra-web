@@ -4,7 +4,7 @@ title = "Mauricio Saavedra"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = "G-5J68CP87ST"
+googleAnalytics = "UA-248155708-1"
 theme = "hugo-sustain"
 
 [permalinks]
@@ -40,8 +40,4 @@ theme = "hugo-sustain"
   identifier = "projects"
   weight = 200
   url = "/projects/"
-[[menu.main]]
-  name = "Libros"
-  identifier = "libros"
-  weight = 300
-  url = "/libros/"
+

@@ -12,6 +12,33 @@ tags = [
 
 # Mauricio Saavedra
 
+## Historial Laboral
+
+### Nintendo (2013 / 2018)
+
+Mi trayectoria como empleado para la cuenta de Nintendo por parte de Latamel (su distribuidora oficial en México) estuvo en constante movimiento debido a la práctica del outsourcing, pero estas fueron las agencias que manejaron la cuenta mientras trabaje con ellos:
+
+* Grupo Alkance (2013). —Puesto: Promovendedor.
+
+* Exotic Marketing (2014). —Puesto: Promovendedor.
+
+* Agencia AyP (2015 / 2016). —Puesto: Promovendedor.
+
+* Agencia SMM (2017 / 2018). —Puesto: Promovendedor.
+
+  * Funciones como Promo-Vendedor:
+    * Planogramación.
+    * Venta y Persuasión.
+    * Rapport al prospecto.
+    * Trato cara a cara con el cliente. 
+    * Demostración de los productos.
+    * Capacitación a cliente y compañeros.
+    * Orientación y Comunicación correcta con el cliente.
+
+#### Trabajador Independiente
+
+* Saliendo de Nintendo tuve la oportunidad de poner un negocio propio, así que aprendí un nuevo set de habilidades para poder desempeñar todas las funciones que requería ese pequeño proyecto, desafortunadamente la pandemia terminó con aquel emprendimiento, quizá no haya podido verlo crecer como a mi me hubiese gustado, pero fue bastante satisfactorio el haber podido ver los frutos de mi trabajo de manera tan directa.
+
 ## Sobre mí
 
 Me gustan las humanidades y las artes, disfruto del sorprenderme con la gran habilidad que veo en los *grandes maestros* de diversas áreas, disfruto mucho de *el cine y la literatura*, pues al yo mismo querer ser escritor es necesario que me nutra de las narrativas para poder expandir mis referentes y con ello mi imaginario.
@@ -30,37 +57,6 @@ Mi acercamiento a las humanidades y sobre todo mi gran **curiosidad** por aquell
 
 * Puedes enviarme un **[correo]** para contactarme si necesitas mayor información.
 * Mis certificados de cursos de programación puedes encontrarlos en mi [LinkedIn](https://www.linkedin.com/in/original-mauricio-saavedra/details/certifications/)
-
-## Historial Laboral
-
-### Nintendo (2013 / 2018)
-
-Mi trayectoria como empleado para la cuenta de Nintendo por parte de Latamel (su distribuidora oficial en México) estuvo en constante movimiento debido a la práctica del outsourcing, pero estas fueron las agencias que manejaron la cuenta mientras trabaje con ellos:
-
-* Grupo Alkance (2013), Insurgentes Sur, Cerca del Metrobus la Piedad. —Puesto: Promovendedor.
-Trabajaba en la cuenta de Nintendo, la agencia ya no existe por eso no puedo poner datos más exactos.
-
-* Exotic Marketing (2014), Calle 4 #48, fuera del Metro San Pedro de los Pinos. —Mismo puesto.
-Latamel migró a esta agencia y con ella migre yo, pues quienes dirigían la cuenta siempre me contemplaban para el puesto.
-
-* Agencia AyP (2015 / 2016), Augusto Rodin #135, Colonia Noche Buena, Ciudad de México, CP: 03720. —Puesto: Promovendedor. De nueva cuenta la cuenta de Nintendo pasó de manos y el personal encargado de reclutamiento me volvió a convocar para continuar labores con ellos.
-
-* Agencia SMM (2017 / 2018), Insurgentes Sur #716, 4ta planta, Colonia del Valle, CDMX, CP: 03100. —Puesto: Promovendedor para Nintendo e Invicta. Como ya es costumbre la cuenta de Nintendo volvió a cambiar, pero esta vez no tanto de agencia, pues SMM pertenece a AyP como SubMarca.
-
-  * Las relaciones con el personal encargado de la cuenta de Nintendo hasta la fecha han sido buenas, el motivo por el cual deje de laborar con ellos es que habría otro cambio de agencia, pero esta vez las condiciones laborales se veían precarizadas debido a las decisiones de la nueva agencia, pues si Nintendo pagaba una nómina justa, esta se veía reducida debido a la práctica del  *OutSourcing* .
-
-    * Funciones como Promo-Vendedor:
-      * Planogramación.
-      * Venta y Persuasión.
-      * Rapport al prospecto.
-      * Trato cara a cara con el cliente. 
-      * Demostración de los productos.
-      * Capacitación a cliente y compañeros.
-      * Orientación y Comunicación correcta con el cliente.
-
-#### Trabajador Independiente
-
-* Saliendo de Nintendo (lo llamo así porque me gusto mucho sentirme parte de la marca) tuve la oportunidad de poner un *pequeño* negocio propio, así que aprendí un nuevo set de habilidades para poder desempeñar todas las funciones que requería ese pequeño proyecto, desafortunadamente el `magno evento` del 2020 terminó con aquel emprendimiento, quizá no haya podido verlo crecer como a mi me hubiese gustado, pero fue bastante satisfactorio el haber podido ver los frutos de mi trabajo de manera tan directa.
 
 Gracias por su amable atención, estoy disponible para agendar entrevistas poder conocerlos.
 
