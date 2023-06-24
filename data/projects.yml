@@ -3,7 +3,7 @@ source:
 
   - icon: fa fa-github
     name: Consultoria Leonesa Web
-    description: Web creada con Django, tiene conexión a MailTrap para mensajeria y en la sección 'Lecturas' se actualiza dinámicamente según los post ingresados a traves del panel de administración (acá un video de su funcionamiento en TY >>> https://youtu.be/JGrvC7pxcjI <<<).
+    description: Web creada con Django, tiene conexión a MailTrap para mensajeria y en la sección 'Lecturas' se actualiza dinámicamente según los post ingresados a traves del panel de administración.
     url: https://github.com/Mauricio-Saavedra/Leonesa/tree/master
 
   - icon: fa fa-github
