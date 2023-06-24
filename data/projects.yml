@@ -2,6 +2,11 @@ name: Projects
 source:
 
   - icon: fa fa-github
+    name: Consultoria Leonesa Web
+    description: Web creada con Django, tiene conexión a MailTrap para mensajeria y en la sección 'Lecturas' se actualiza dinámicamente según los post ingresados a traves del panel de administración (acá un video de su funcionamiento en TY >>> https://youtu.be/JGrvC7pxcjI <<<).
+    url: https://github.com/Mauricio-Saavedra/Leonesa/tree/master
+
+  - icon: fa fa-github
     name: Práctica de API
     description: Creo que una pequeña API para poder hacerle peticiones desde "Thunder Client" en VSCode.
     url: https://github.com/Mauricio-Saavedra/Mini-Proyectos-Python/tree/master/Python/API.Contact
@@ -30,11 +35,6 @@ source:
     name: El Juego del Ahorcado (Python)
     description: Cree un sencillo juego del ahorcado, es el primer proyecto que subo por tener -> Clases, funciones, ciclos, etc... 
     url: https://github.com/Mauricio-Saavedra/Mini-Proyectos-Python/tree/master/Python/Ahorcado
-
-  # - icon: fa fa-cog
-  #   name: Project 6
-  #   description: Inermis recusabo elaboraret mea et, dicat neglegentur vim te. Nec et sanctus scriptorem, usu ex sapientem gubergren. Tamquam admodum ei usu.
-  #   url: https://github.com/nurlansu/hugo-sustain
 
   # - icon: fa fa-cog
   #   name: Project 7
