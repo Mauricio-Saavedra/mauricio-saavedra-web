@@ -2,6 +2,11 @@ name: Projects
 source:
 
   - icon: fa fa-github
+    name: Aplicación de consola hecha con C#
+    description: Aplicación de consola que simula la recepción y gestión de los datos de animalitos recatados y en espera de adopción.
+    url: https://github.com/Mauricio-Saavedra/Ejercicios_CSharp/tree/master/PetsConsoleApp/TestProject
+
+  - icon: fa fa-github
     name: Consultoria Leonesa Web
     description: Web creada con Django, tiene conexión a MailTrap para mensajeria y en la sección 'Lecturas' se actualiza dinámicamente según los post ingresados a traves del panel de administración.
     url: https://github.com/Mauricio-Saavedra/Leonesa/tree/master
@@ -36,7 +41,3 @@ source:
     description: Cree un sencillo juego del ahorcado, es el primer proyecto que subo por tener -> Clases, funciones, ciclos, etc... 
     url: https://github.com/Mauricio-Saavedra/Mini-Proyectos-Python/tree/master/Python/Ahorcado
 
-  # - icon: fa fa-cog
-  #   name: Project 7
-  #   description: Essent putant indoctum sed in, reprimique persequeris neglegentur te quo. Nam rebum tractatos partiendo at, debet ubique oporteat ut his.
-  #   url: https://github.com/nurlansu/hugo-sustain
