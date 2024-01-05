@@ -6,15 +6,14 @@
     <description>Recent content in Projects on Mauricio Saavedra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
-    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate><atom:link href="https://mauricio-saavedra.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    <atom:link href="https://mauricio-saavedra.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Primer Post</title>
       <link>https://mauricio-saavedra.github.io/projects/primer-post/</link>
       <pubDate>Tue, 13 Sep 2022 21:58:54 -0500</pubDate>
-      
       <guid>https://mauricio-saavedra.github.io/projects/primer-post/</guid>
       <description>#Segunda página de Hugo ##¿Esta ya se ve? jajaja</description>
     </item>
-    
   </channel>
 </rss>

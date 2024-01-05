@@ -16,6 +16,8 @@ En este espacio puedes:
 
 También puedes enviarme un **[email]**, con gusto te leeré, te dejo una liga a un video de mi más reciente proyecto con **[Django]**.
 
+Nota: Esta versión del portafolio pronto será reemplazada por una nueva hecha con `@Blazor`, gracias por su atención.
+
 [Portafolio]: /projects
 [Libro]: https://a.co/d/fdZFatc
 [email]: mailto:micorreodecontactopublico@gmail.com
