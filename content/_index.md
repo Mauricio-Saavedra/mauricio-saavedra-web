@@ -11,7 +11,7 @@ En este espacio puedes:
 
 1. Ver mis aprendizajes de programación en mi **[Portafolio]**.
 2. Visitar en amazon mi primer **[Libro]** de cuentos.
-3. Descargar mi **[Curriculum](/downloads/CV-MauricioSaavedra.pdf)** (.pdf una sola hoja).
+3. Descargar mi **[Curriculum](/downloads/CV-MauricioBueno-English.pdf)** (.pdf una sola hoja).
 4. Descargar un pequeño **[jueguito](/downloads/TortuguitaV1.zip)** que hice con *Godot* y *C#*.
 
 También puedes enviarme un **[email]**, con gusto te leeré, te dejo una liga a un video de mi más reciente proyecto con **[Django]**.
